@@ -1,6 +1,6 @@
-###Project 3: Web APIs & Classification (Subreddits)
+### Project 3: Web APIs & Classification (Subreddits)
 
-##Problem Statement
+## Problem Statement
 
 We are the good folks at Askscience subreddit forums, bringing to you up and coming and interesting Science
 facts, news fresh off the oven for your reading pleasure.
@@ -10,7 +10,7 @@ of troll posts, or jokes mocking Science or in no way relevant to Science in any
 Our job now is to invent a ML algorithm to correctly dectect such posts that dont belong,and subsequently
 filter,remove them from our feed.
 
-##Executive Summary
+## Executive Summary
 
 Reddit is an American social news compiler,web content rating and discussion website. Members submit content to the site such as links,text posts and images which are upvoted or downvoted by the community. Posts are organized by subject into user-created boards called "subreddits", which cover a variety of topics including news, science, movies, video games, music, books, fitness, food, and image-sharing.
 
